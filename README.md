@@ -1,1 +1,1 @@
-# cherry-book
+# cherry-book 🍒
